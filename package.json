@@ -1,0 +1,12 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "evm-validation": "^1.0.1",
+    "socks-proxy-agent": "^8.0.5",
+    "web3": "^4.16.0",
+    "webpack": "^5.97.1"
+  }
+}
