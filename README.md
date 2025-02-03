@@ -1,6 +1,6 @@
 ## Humanity自动签到脚本
 
-[testnet.humanity.org/login?ref=mrmhhuang](点击注册)
+[点击注册](testnet.humanity.org/login?ref=mrmhhuang)
 
 #### 一、本地运行
 1、安装依赖
